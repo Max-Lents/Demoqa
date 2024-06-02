@@ -5,14 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad7e9639-ee78-4bd5-bb38-ad67a2f43bfd" name="Changes" comment="Chgd">
-      <change afterPath="$PROJECT_DIR$/components/components.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_go_to_page_elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/tests_hw/test_check_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Slider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/accordion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/alerts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/browser_tab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/form_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/koup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/koup_add.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/modal_dialogs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/progress_bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/radio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/tables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/text_box.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_koup/test_btn_add.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_alert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_attribute.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_check_alert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_check_modal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_clear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_css.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_decor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_decor_mark.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_exmp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_login_form.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_navigation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_page_dialogs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_progress_bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_seo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_seo_meta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_size.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_slider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_visible.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_webtables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/tests_hw/test_browser_tab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/tests_hw/test_login_form_validate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/tests_hw/test_text_box.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/tests_hw/test_visible_hw.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/components.py" beforeDir="false" afterPath="$PROJECT_DIR$/components/components.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/demoqa.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/demoqa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_check_icon_demoqa.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_check_icon_demoqa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/elements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/tests_hw/test_check_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/tests_hw/test_check_text.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,59 +73,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_check_icon_demoqa.test_check_icon.executor": "Run",
-    "Python tests.Python tests for test_check_text.test_check_text.executor": "Run",
-    "Python tests.Python tests for test_go_to_page_elements.test_go_to_page_elements.executor": "Run",
-    "Python tests.Python tests in test_check_icon_demoqa.py.executor": "Run",
-    "Python tests.Python tests in test_check_text.py.executor": "Run",
-    "Python.element_page.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_check_icon_demoqa.test_check_icon.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_check_text.test_check_text.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_check_text.test_check_text_footer.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_check_text.test_check_text_middle.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_check_text.test_page_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_exmp.test_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_go_to_page_elements.test_go_to_page_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_check_icon_demoqa.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_check_text.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_visible.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_webtables.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conftest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.element_page.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python tests.Python tests in test_check_text.py">
-    <configuration name="elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Demoqa" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pages" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Максим\PycharmProjects\ITMO_automation\Demoqa\pages\elements.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_check_icon_demoqa.test_check_icon" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Demoqa" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_check_icon_demoqa.test_check_icon&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_check_text.test_check_text" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Максим\PycharmProjects\ITMO_automation\Demoqa\tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_exmp.test_example">
+    <configuration name="Python tests for test_check_text.test_check_text_middle" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Demoqa" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,26 +111,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_check_text.test_check_text&quot;" />
+      <option name="_new_target" value="&quot;test_check_text.test_check_text_middle&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_go_to_page_elements.test_go_to_page_elements" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Demoqa" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_go_to_page_elements.test_go_to_page_elements&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in test_check_text.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_check_text.test_page_elements" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Demoqa" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,17 +126,62 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/tests_hw/test_check_text.py&quot;" />
+      <option name="_new_target" value="&quot;test_check_text.test_page_elements&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_exmp.test_example" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Demoqa" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_exmp.test_example&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_visible.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Demoqa" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_visible.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_webtables.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Demoqa" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_webtables.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in test_check_text.py" />
-        <item itemvalue="Python tests.Python tests for test_check_text.test_check_text" />
-        <item itemvalue="Python.elements" />
-        <item itemvalue="Python tests.Python tests for test_go_to_page_elements.test_go_to_page_elements" />
-        <item itemvalue="Python tests.Python tests for test_check_icon_demoqa.test_check_icon" />
+        <item itemvalue="Python tests.Python tests for test_exmp.test_example" />
+        <item itemvalue="Python tests.Python tests in test_webtables.py" />
+        <item itemvalue="Python tests.Python tests in test_visible.py" />
+        <item itemvalue="Python tests.Python tests for test_check_text.test_page_elements" />
+        <item itemvalue="Python tests.Python tests for test_check_text.test_check_text_middle" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712374761948</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Chgd">
+      <option name="closed" value="true" />
+      <created>1712898766420</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712898766420</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
