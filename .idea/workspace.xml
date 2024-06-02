@@ -21,12 +21,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Max-Lents"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Max-Lents&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -47,32 +47,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_check_icon_demoqa.test_check_icon.executor": "Run",
-    "Python tests.Python tests for test_check_text.test_check_text.executor": "Run",
-    "Python tests.Python tests for test_check_text.test_check_text_footer.executor": "Run",
-    "Python tests.Python tests for test_check_text.test_check_text_middle.executor": "Run",
-    "Python tests.Python tests for test_check_text.test_page_elements.executor": "Run",
-    "Python tests.Python tests for test_exmp.test_example.executor": "Run",
-    "Python tests.Python tests for test_go_to_page_elements.test_go_to_page_elements.executor": "Run",
-    "Python tests.Python tests in test_check_icon_demoqa.py.executor": "Run",
-    "Python tests.Python tests in test_check_text.py.executor": "Run",
-    "Python tests.Python tests in test_visible.py.executor": "Run",
-    "Python tests.Python tests in test_webtables.py.executor": "Run",
-    "Python.conftest.executor": "Run",
-    "Python.element_page.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_check_icon_demoqa.test_check_icon.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_check_text.test_check_text.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_check_text.test_check_text_footer.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_check_text.test_check_text_middle.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_check_text.test_page_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_exmp.test_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_go_to_page_elements.test_go_to_page_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_check_icon_demoqa.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_check_text.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_visible.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_webtables.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conftest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.element_page.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Максим\PycharmProjects\ITMO_automation\Demoqa\tests" />
