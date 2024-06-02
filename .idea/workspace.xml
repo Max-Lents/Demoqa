@@ -4,54 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad7e9639-ee78-4bd5-bb38-ad67a2f43bfd" name="Changes" comment="Chgd">
-      <change afterPath="$PROJECT_DIR$/pages/Slider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/accordion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/alerts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/browser_tab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/form_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/koup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/koup_add.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/modal_dialogs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/progress_bar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/radio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/tables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/text_box.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_koup/test_btn_add.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_alert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_attribute.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_check_alert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_check_modal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_clear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_css.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_decor_mark.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_exmp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_login_form.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_navigation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_page_dialogs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_progress_bar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_seo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_seo_meta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_size.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_slider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_visible.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_webtables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/tests_hw/test_browser_tab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/tests_hw/test_login_form_validate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/tests_hw/test_text_box.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/tests_hw/test_visible_hw.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/components.py" beforeDir="false" afterPath="$PROJECT_DIR$/components/components.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/demoqa.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/demoqa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/elements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/tests_hw/test_check_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/tests_hw/test_check_text.py" afterDir="false" />
-    </list>
+    <list default="true" id="ad7e9639-ee78-4bd5-bb38-ad67a2f43bfd" name="Changes" comment="Chgd" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -217,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712898766420</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Chgd">
+      <option name="closed" value="true" />
+      <created>1717303984182</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717303984182</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
